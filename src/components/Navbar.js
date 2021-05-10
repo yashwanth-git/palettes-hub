@@ -15,7 +15,7 @@ const Navbar = () => {
     <StyledNav>
       <NavLink>
         <Link to="/" className="logo">
-          Colorshub
+          PalettesHub
         </Link>
       </NavLink>
       <div className="SubNav">
