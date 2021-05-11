@@ -4,9 +4,9 @@ const About = () => {
   return (
     <div className="Container">
       <AboutContainer>
-        <h2>About Colorshub</h2>
+        <h2>About PalettesHub</h2>
         <p>
-          Colorshub is a collection of user created color palettes to share
+          PalettesHub is a collection of user created color palettes to share
           between other developers and designers. Feel free to add your color
           palette suggestion in the create option.
         </p>
